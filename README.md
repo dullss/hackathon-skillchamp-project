@@ -17,4 +17,4 @@ SkillChamp is a platform designed to empower developers to enhance their skills 
 
 ## Demo
 
-https://dullss.github.io/hackathon-skillchamp-project/#challengeSection
+https://dullss.github.io/hackathon-skillchamp-project/
